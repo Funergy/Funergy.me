@@ -1,0 +1,118 @@
+body{
+    background-image: url("https://funergy.me/home/images/Header.gif");
+    background-repeat: no-repeat;
+}
+.navigation{
+    padding-top: 30px;
+    display: block;
+    position: relative;
+}
+.navigation img{
+    padding-top: 10px;
+}
+.navigation a {
+    color: #FFFFFF;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navigation li{
+    display: inline;
+}
+
+.projects{
+    padding-top: 700px;
+    position: relative;
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.about{
+    padding-top: 900px;
+}
+.about p{
+    color: #34495e;
+    line-height: 13px;
+    font-size: 25px;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+}
+.HTML-CSS{
+    padding-left: 300px;
+}
+.HTML-CSS .progress{
+    width: 600px;
+}
+.css{
+    color: #f1c40f;
+    font-family: 'Exo 2', sans-serif;
+    line-height: 13px;
+    font-size: 50px;
+    padding-left: 950px;
+    position: relative;
+    display: block;
+}
+.html{
+    color: #1abc9c;
+    font-family: 'Exo 2', sans-serif;
+    line-height: 15px;
+    font-size: 50px;
+    padding-left: 950px;
+    padding-top: 445px;
+    position: relative;
+    display: block;
+}
+.PHP .progress{
+    width: 850px;
+}
+.PHP{
+    padding-top: 150px;
+    padding-left: 275px;
+}
+.PHP-Text{
+    color: #ecf0f1;
+    font-family: 'Exo 2', sans-serif;
+    line-height: 15px;
+    font-size: 50px;
+    padding-top: 145px;
+    position: absolute;
+    padding-left: 1175px;
+    display: block;
+}
+.Java .progress{
+    width: 650px;
+}
+.Java{
+    padding-top: 180px;
+    padding-left: 275px;
+}
+.Java-Text{
+    color: #ecf0f1;
+    font-family: 'Exo 2', sans-serif;
+    line-height: 15px;
+    font-size: 50px;
+    padding-top: 355px;
+    position: absolute;
+    padding-left: 950px;
+    display: block;
+}
+footer{
+    padding-top: 30px;
+    font-size: 25px;
+    color: #ecf0f1;
+    text-align: center;
+}
+.footer {
+    padding-top: 500px;
+    text-align: center;
+}
+.footer img{
+    border-color: #34495e;
+    border-radius: 10px;
+}
+.footer-active{
+    width: 100px;
+}
